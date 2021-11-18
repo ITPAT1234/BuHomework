@@ -1,0 +1,10 @@
+16207000078 sirinthorn cheyasak 2.45 1 18 F
+16207000092 peerada mongkolkit 3.45 2 18 F
+16207000192 surasit meemark 3.45 3 18 M
+16207000292 sirada souymak 3.45 4 18 F
+16207000392 thanet manmakmak 3.45 1 18 M
+16207000492 nalinee narakdee 3.45 2 18 F
+16207000592 suparinee meesukdee 3.45 3 18 F
+16207000692 peerapon luckyman 3.45 4 18 M
+16207000792 jesdapon suksuksuk 3.45 3 18 M
+16207000892 mongkol deesudsud 3.45 1 18 M

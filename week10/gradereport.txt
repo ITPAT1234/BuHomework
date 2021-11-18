@@ -1,0 +1,10 @@
+S0001    Sirinthorn Cheyasak           CS   73.43   Grade  B
+S0002    Ittipat Jidrada               CS   71.38   Grade  B
+S0003    Sirada Wongsaardsakul         IT   67.50   Grade  C
+S0004    Pakapan Limtrirat             IT   80.96   Grade  A
+S0005    Angkana Suwanjatuporn         IT   64.22   Grade  C
+S0006    Sasiprapa Songsirichai        IT   72.44   Grade  B
+S0007    Methat Mongkolsuk             CS   71.30   Grade  B
+S0008    Derachai Pongsirikul          IT   72.76   Grade  B
+S0009    Benjaraj Itthimongkol         CS   57.40   Grade  D
+S0010    Natthapon Deemesuk            IT   80.37   Grade  A

@@ -1,0 +1,7 @@
+          SHOW INCOME EMPLOYEE FULLTIME
+   NAME      SURNAME      SALARY   SALE      INCOME
+   ====      =======      ======   ====      ======
+Ratchata     Meemonkon    20000    600000    80000
+Taweep       Rujirote     23000    540000    77000
+==================================================
+Total Income =157000

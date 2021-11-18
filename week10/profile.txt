@@ -1,0 +1,10 @@
+S0001 Sirinthorn Cheyasak CS 3.43
+S0002 Ittipat Jidrada CS 3.43
+S0003 Sirada Wongsaardsakul IT 3.75
+S0004 Pakapan Limtrirat IT 2.98
+S0005 Angkana Suwanjatuporn IT 3.44
+S0006 Sasiprapa Songsirichai IT 3.22
+S0007 Methat Mongkolsuk CS 2.99
+S0008 Derachai Pongsirikul IT 3.19
+S0009 Benjaraj Itthimongkol CS 3.11
+S0010 Natthapon Deemesuk IT 3.97
